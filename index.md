@@ -8,6 +8,10 @@
 ### This is an image mardown application
 ![This is an image of the prortagonis Denji form chanisaw man](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaxvukkrVI_l_7D106x5jDjebJqEP0twUxQw&usqp=CAU)
 
-
+This shows how code blocks dispaly code
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
 
 This file contains content on how hmarkdowns are applied.
