@@ -13,5 +13,9 @@ This shows how code blocks dispaly code
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+This shows a task list example
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
 This file contains content on how hmarkdowns are applied.
